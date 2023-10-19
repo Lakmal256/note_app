@@ -8,6 +8,5 @@ setupServiceLocator() async {
   String authority = "type.fit";
 
   getIt.registerSingleton(RestService(authority: authority));
-  getIt.registerLazySingleton(() => LoadingIndicatorController());
 }
 T locate<T extends Object>() => GetIt.instance<T>();
