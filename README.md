@@ -32,8 +32,4 @@ shared_preferences for storing theme preferences locally\
 http for making API requests to fetch random quotes
 
 ## Credits
-Quotes API: [https://type.fit/api/quotes](https://type.fit/api/quotes)# note_app
-# note_app
-# note_app
-# note_app
-# note_app
+Quotes API: [https://type.fit/api/quotes](https://type.fit/api/quotes)
